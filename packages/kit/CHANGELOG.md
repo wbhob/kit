@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.27.5
+
+### Patch Changes
+
+- fix: cache location.origin on startup ([#11004](https://github.com/sveltejs/kit/pull/11004))
+
 ## 1.27.4
 
 ### Patch Changes
